@@ -9,11 +9,11 @@ This program requires the `Pillow` library. If you don't have it installed, you 
 py -m pip install Pillow
 
 
-To run the program, execute:
+To run the program, locate G1_GRP6.py in the Command Prompt then execute:
 
-python PTable.py 
+python G1_GRP6.py 
 or
-py PTable.py
+py G1_GRP6.py
 
 
 Developers:
